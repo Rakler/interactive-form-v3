@@ -12,7 +12,7 @@ const paypal = document.getElementById("paypal");
 const bitcoin = document.getElementById("bitcoin");
 var cost = 0;
 //Set focus on "Name" input element
-nameInput.focus;
+nameInput.focus();
 
 //Hide other job role initially
 
